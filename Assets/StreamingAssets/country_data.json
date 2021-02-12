@@ -976,6 +976,11 @@
             "en": "Uzbekistan"
         },
         {
+            "ioc": "VAT",
+            "alpha2": "va",
+            "en": "Vatican City"
+        },
+        {
             "ioc": "VIN",
             "alpha2": "vc",
             "en": "Saint Vincent And The Grenadines"
