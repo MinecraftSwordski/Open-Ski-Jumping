@@ -996,6 +996,11 @@
             "en": "Virgin Islands (US)"
         },
         {
+            "ioc": "VAT",
+            "alpha2": "va",
+            "en": "Vatican City"
+        },
+        {
             "ioc": "VIE",
             "alpha2": "vn",
             "en": "Viet Nam"
